@@ -7,16 +7,21 @@ header{
 }
 
 
-body {
+body 
+{
     background-color: #f5f8f8;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 30px;
+    margin-right: 30px;
+    
     
 }
 
 main{
    font-family: sans-serif;
-    
+    img
+    {
+        margin-left: 300px;;
+    }
    
 }
 
@@ -80,7 +85,6 @@ section
     margin-block: 85px;
     
 }
-
 
 
 
